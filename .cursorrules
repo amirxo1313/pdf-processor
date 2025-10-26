@@ -1,0 +1,26 @@
+# Cursor Rules for PDF Processing Project
+
+## Project Overview
+This is a PDF processing project using Python with pdfplumber, pypdf, and other libraries.
+
+## Code Style
+- Use Python type hints where possible
+- Write docstrings for functions
+- Follow PEP 8 style guide
+- Use meaningful variable names in both English and Persian contexts
+
+## Key Dependencies
+- pdfplumber: For text extraction from PDFs
+- pypdf: For PDF manipulation
+- cryptography: For encryption support
+
+## Project Structure
+- Main entry point: robust_pdf_to_json.py
+- Virtual environment: pdf_venv/
+- Configuration: .gitignore for excluding venv
+
+## Background Agent Rules
+- Automatically fetch from origin/main
+- Monitor changes in PDF processing scripts
+- Suggest improvements for text extraction
+- Help maintain code quality and performance
