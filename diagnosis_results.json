@@ -1,0 +1,1307 @@
+{
+  "summary": {
+    "corrupted_pypdf": 45,
+    "scan_or_empty_text": 14,
+    "successful": 36,
+    "encrypted": 5
+  },
+  "details": [
+    {
+      "filename": "نمونه سوالات آیین دادرسی مدنی 3 (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/نمونه سوالات آیین دادرسی مدنی 3 (3).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 128.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "نمونه سوالات حقوق مدني 8 (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/نمونه سوالات حقوق مدني 8 (3).pdf",
+      "error_type": "scan_or_empty_text",
+      "error_message": "Very little text extracted (24 chars) - likely scanned image or empty",
+      "page_count": 97,
+      "text_length": 24,
+      "details": {
+        "file_size_kb": 10156.29296875,
+        "pages_with_text": 1,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 97
+      }
+    },
+    {
+      "filename": "حقوق مدنی ۷ (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/حقوق مدنی ۷ (3).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 27,
+      "text_length": 185,
+      "details": {
+        "file_size_kb": 4521.2783203125,
+        "pages_with_text": 1,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 27
+      }
+    },
+    {
+      "filename": "خلاصه مدنی 5.pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/خلاصه مدنی 5.pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 10,
+      "text_length": 10091,
+      "details": {
+        "file_size_kb": 82.7861328125,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 10
+      }
+    },
+    {
+      "filename": "@PNUIRketab (32).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/@PNUIRketab (32).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 640.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "قانون_حمایت_از_خانواده_و_جوانی_جمعیت.pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/قانون_حمایت_از_خانواده_و_جوانی_جمعیت.pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 256.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "متون_فقه_2_شرح_لمعه_دمشقیه_شهید_ث (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/متون_فقه_2_شرح_لمعه_دمشقیه_شهید_ث (2).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 215,
+      "text_length": 5441,
+      "details": {
+        "file_size_kb": 1303.314453125,
+        "pages_with_text": 4,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 215
+      }
+    },
+    {
+      "filename": "قانون پیش فروش ساختمان (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/قانون پیش فروش ساختمان (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 128.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "پیشگیری از جرم (13).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/پیشگیری از جرم (13).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 52,
+      "text_length": 561,
+      "details": {
+        "file_size_kb": 4450.1787109375,
+        "pages_with_text": 1,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 52
+      }
+    },
+    {
+      "filename": "99- سوال وکلید (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/99- سوال وکلید (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 128.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "جزوه حقوق تطبیقی (5).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/جزوه حقوق تطبیقی (5).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 81,
+      "text_length": 4610,
+      "details": {
+        "file_size_kb": 824.998046875,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 81
+      }
+    },
+    {
+      "filename": "کنکور دکتری (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/کنکور دکتری (3).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 166,
+      "text_length": 145,
+      "details": {
+        "file_size_kb": 19801.44140625,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 166
+      }
+    },
+    {
+      "filename": "1bbbMadani-Shahbaziwww.dadazmoon.ir_.pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/1bbbMadani-Shahbaziwww.dadazmoon.ir_.pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 404,
+      "text_length": 6143,
+      "details": {
+        "file_size_kb": 7499.8193359375,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 404
+      }
+    },
+    {
+      "filename": "حقوق بیمه (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/حقوق بیمه (3).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 128.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "نمونه سوال حقوق هوایی (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/نمونه سوال حقوق هوایی (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 1280.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "فایل نموداری کتاب الوکاله.pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/فایل نموداری کتاب الوکاله.pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 16,
+      "text_length": 8468,
+      "details": {
+        "file_size_kb": 398.2861328125,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 16
+      }
+    },
+    {
+      "filename": "@PNUIRketab (9).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/@PNUIRketab (9).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 36,
+      "text_length": 6709,
+      "details": {
+        "file_size_kb": 999.8662109375,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 36
+      }
+    },
+    {
+      "filename": "1223259 (12).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/1223259 (12).pdf",
+      "error_type": "scan_or_empty_text",
+      "error_message": "Very little text extracted (0 chars) - likely scanned image or empty",
+      "page_count": 66,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 5538.23828125,
+        "pages_with_text": 0,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 66
+      }
+    },
+    {
+      "filename": "جرم شناسی (11).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/جرم شناسی (11).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 256.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "1223179 (6).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/1223179 (6).pdf",
+      "error_type": "scan_or_empty_text",
+      "error_message": "Very little text extracted (0 chars) - likely scanned image or empty",
+      "page_count": 109,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 9512.48828125,
+        "pages_with_text": 0,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 109
+      }
+    },
+    {
+      "filename": "تست تجارت کمیجانی (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/تست تجارت کمیجانی (3).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 193,
+      "text_length": 174,
+      "details": {
+        "file_size_kb": 62849.9306640625,
+        "pages_with_text": 3,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 193
+      }
+    },
+    {
+      "filename": "4_6001359013881578612 (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/4_6001359013881578612 (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 128.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "✅جزوه کل متون فقه فرجی74.pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/✅جزوه کل متون فقه فرجی74.pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 256.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "برنامه 30روز مرکز وکلا 403 (5).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/برنامه 30روز مرکز وکلا 403 (5).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 19,
+      "text_length": 3397,
+      "details": {
+        "file_size_kb": 625.912109375,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 19
+      }
+    },
+    {
+      "filename": "_کتاب_دوره_پیشرفته_نگارش_انواع_دادخواست_حقوقی_@karamooz_vekalat (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/_کتاب_دوره_پیشرفته_نگارش_انواع_دادخواست_حقوقی_@karamooz_vekalat (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 512.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "@lawdb_telegram_channel_ p-qanony payam noor.pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/@lawdb_telegram_channel_ p-qanony payam noor.pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Invalid object in /Pages",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 512.0,
+        "pdfplumber_pages": 0
+      }
+    },
+    {
+      "filename": "تست مدنی جرعه نوش تالیفی (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/تست مدنی جرعه نوش تالیفی (3).pdf",
+      "error_type": "scan_or_empty_text",
+      "error_message": "Very little text extracted (0 chars) - likely scanned image or empty",
+      "page_count": 514,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 155796.583984375,
+        "pages_with_text": 0,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 514
+      }
+    },
+    {
+      "filename": "@PNUIRketab (24).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/@PNUIRketab (24).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 2560.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "کیفری غفوری قسمت 1 (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/کیفری غفوری قسمت 1 (3).pdf",
+      "error_type": "scan_or_empty_text",
+      "error_message": "Very little text extracted (0 chars) - likely scanned image or empty",
+      "page_count": 98,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 20458.822265625,
+        "pages_with_text": 0,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 98
+      }
+    },
+    {
+      "filename": "4_502242798305542187.pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/4_502242798305542187.pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 75,
+      "text_length": 7407,
+      "details": {
+        "file_size_kb": 527.388671875,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 75
+      }
+    },
+    {
+      "filename": "تست_حقوق_مدنی_قربانی_۴۰۱کانال_رابین_هود (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/تست_حقوق_مدنی_قربانی_۴۰۱کانال_رابین_هود (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 256.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "تست آ.د.م السان (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/تست آ.د.م السان (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Cannot find Root object in pdf",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 512.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "متون فقه 1 (4).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/متون فقه 1 (4).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 312,
+      "text_length": 5332,
+      "details": {
+        "file_size_kb": 2468.96484375,
+        "pages_with_text": 4,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 312
+      }
+    },
+    {
+      "filename": "آرای وحدت رویه از ۱۳۲۳ تا ۱۴۰۲ (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/آرای وحدت رویه از ۱۳۲۳ تا ۱۴۰۲ (3).pdf",
+      "error_type": "scan_or_empty_text",
+      "error_message": "Very little text extracted (32 chars) - likely scanned image or empty",
+      "page_count": 586,
+      "text_length": 32,
+      "details": {
+        "file_size_kb": 43600.4091796875,
+        "pages_with_text": 1,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 586
+      }
+    },
+    {
+      "filename": "حقوق ثبت (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/حقوق ثبت (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 1280.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "1233043 (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/1233043 (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 3456.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "✅جزوه متون فقه - نکاح ص20.pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/✅جزوه متون فقه - نکاح ص20.pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 20,
+      "text_length": 6750,
+      "details": {
+        "file_size_kb": 536.5322265625,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 20
+      }
+    },
+    {
+      "filename": "اهم نکات حقوق ثبت، آذرماه 1403.pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/اهم نکات حقوق ثبت، آذرماه 1403.pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 41,
+      "text_length": 9406,
+      "details": {
+        "file_size_kb": 20958.1318359375,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 41
+      }
+    },
+    {
+      "filename": "حقوق ثبت (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/حقوق ثبت (3).pdf",
+      "error_type": "scan_or_empty_text",
+      "error_message": "Very little text extracted (0 chars) - likely scanned image or empty",
+      "page_count": 61,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 18657.7119140625,
+        "pages_with_text": 0,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 61
+      }
+    },
+    {
+      "filename": "@npnu96 (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/@npnu96 (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 128.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "سوالات_چهار_گزینه_ای_اصول_فقه_دکتر_شهبازی (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/سوالات_چهار_گزینه_ای_اصول_فقه_دکتر_شهبازی (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 1280.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "کتاب_آیین_دادرسی_کیفری_2_دکتر_علی_خالقی (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/کتاب_آیین_دادرسی_کیفری_2_دکتر_علی_خالقی (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 384.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "عند_الاتستطاعه_بودن_مهریه_و_اثر_آن_ب.pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/عند_الاتستطاعه_بودن_مهریه_و_اثر_آن_ب.pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 7,
+      "text_length": 12211,
+      "details": {
+        "file_size_kb": 158.9951171875,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 7
+      }
+    },
+    {
+      "filename": "آرشیوزری_وباران_حق_وعدالت_تست_تجارت_قربانی۱۴۰۱ (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/آرشیوزری_وباران_حق_وعدالت_تست_تجارت_قربانی۱۴۰۱ (2).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 408,
+      "text_length": 345,
+      "details": {
+        "file_size_kb": 108616.294921875,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 408
+      }
+    },
+    {
+      "filename": "دیوان عدالت اداری ۱۴۰۲-دلشاد.pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/دیوان عدالت اداری ۱۴۰۲-دلشاد.pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 1024.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "خلاصه مدنی 2.pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/خلاصه مدنی 2.pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 19,
+      "text_length": 11423,
+      "details": {
+        "file_size_kb": 133.1552734375,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 19
+      }
+    },
+    {
+      "filename": "تعارض_قوانین_در_باب_وصیّت_و_ارث (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/تعارض_قوانین_در_باب_وصیّت_و_ارث (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Cannot find Root object in pdf",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 256.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "جزای اختصاصی 2 نموداری✅ساولانی.pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/جزای اختصاصی 2 نموداری✅ساولانی.pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 1024.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "کتاب_طلب_ممتاز_دکتر_عباس_میرشکاری_منتشر_شده_در_کانال_حقوق_بوک.pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/کتاب_طلب_ممتاز_دکتر_عباس_میرشکاری_منتشر_شده_در_کانال_حقوق_بوک.pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 128.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "آرشیوزری_وباران_حق_وعدالت_مدنی۴عبدغیور۱۴۰۱ (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/آرشیوزری_وباران_حق_وعدالت_مدنی۴عبدغیور۱۴۰۱ (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 384.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "سوال وکالت ۹۱.pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/سوال وکالت ۹۱.pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Cannot find Root object in pdf",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 128.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "پک ۱۴۰۱ دادآفرین (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/پک ۱۴۰۱ دادآفرین (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 128.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "جزوه_پیشگیری_از_جرم (6).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/جزوه_پیشگیری_از_جرم (6).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 44,
+      "text_length": 195,
+      "details": {
+        "file_size_kb": 6339.857421875,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 44
+      }
+    },
+    {
+      "filename": "جزوه نموداری آ د ک ص48 (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/جزوه نموداری آ د ک ص48 (3).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 48,
+      "text_length": 3706,
+      "details": {
+        "file_size_kb": 1040.607421875,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 48
+      }
+    },
+    {
+      "filename": "93- سوال وکلید (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/93- سوال وکلید (3).pdf",
+      "error_type": "encrypted",
+      "error_message": "PDF is encrypted",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 5107.634765625
+      }
+    },
+    {
+      "filename": "قوانین-خاص-کانون-وکلا-1403 (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/قوانین-خاص-کانون-وکلا-1403 (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 128.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "✅مدنی 3 دکتر نصرتی ص49 (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/✅مدنی 3 دکتر نصرتی ص49 (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 256.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "متون فقه 1 استاد سرکارخانم کیان (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/متون فقه 1 استاد سرکارخانم کیان (3).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 28,
+      "text_length": 214,
+      "details": {
+        "file_size_kb": 4697.072265625,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 28
+      }
+    },
+    {
+      "filename": "4_5902198647197534809 (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/4_5902198647197534809 (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Invalid object in /Pages",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 384.0,
+        "pdfplumber_pages": 0
+      }
+    },
+    {
+      "filename": "خلاصه مدنی 7 (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/خلاصه مدنی 7 (3).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 15,
+      "text_length": 12225,
+      "details": {
+        "file_size_kb": 121.0576171875,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 15
+      }
+    },
+    {
+      "filename": "جزوه✅تجارت3ص33 ربیعا اسکینی (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/جزوه✅تجارت3ص33 ربیعا اسکینی (2).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 33,
+      "text_length": 7377,
+      "details": {
+        "file_size_kb": 298.4091796875,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 33
+      }
+    },
+    {
+      "filename": "تشخیص هویت (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/تشخیص هویت (2).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 6,
+      "text_length": 11667,
+      "details": {
+        "file_size_kb": 216.7490234375,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 6
+      }
+    },
+    {
+      "filename": "ادله اثبات (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/ادله اثبات (3).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 15,
+      "text_length": 4706,
+      "details": {
+        "file_size_kb": 646.06640625,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 15
+      }
+    },
+    {
+      "filename": "1223259 (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/1223259 (3).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 128.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "جواب وکالت۹۳ (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/جواب وکالت۹۳ (2).pdf",
+      "error_type": "encrypted",
+      "error_message": "PDF is encrypted",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 485.3984375
+      }
+    },
+    {
+      "filename": "حقوق مدنی هفت تیک (مدنی7).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/حقوق مدنی هفت تیک (مدنی7).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 128.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "✅جزوه آدک ص41 (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/✅جزوه آدک ص41 (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: startxref not found",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 384.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "قوانین-خاص-مرکز-وکلا-1403 (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/قوانین-خاص-مرکز-وکلا-1403 (3).pdf",
+      "error_type": "encrypted",
+      "error_message": "PDF is encrypted",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 4074.3134765625
+      }
+    },
+    {
+      "filename": "جزوه_متون_فقه2 (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/جزوه_متون_فقه2 (2).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 48,
+      "text_length": 4680,
+      "details": {
+        "file_size_kb": 1678.2158203125,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 48
+      }
+    },
+    {
+      "filename": "ترجمه تحریر الوسیله جلد 1 تا 4 (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/ترجمه تحریر الوسیله جلد 1 تا 4 (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 640.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "جذب اختصاصی قضاوت ۱۳۹۹ (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/جذب اختصاصی قضاوت ۱۳۹۹ (2).pdf",
+      "error_type": "encrypted",
+      "error_message": "PDF is encrypted",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 642.91796875
+      }
+    },
+    {
+      "filename": "Az_ghezavat_shahrivar_82+ (1).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/Az_ghezavat_shahrivar_82+ (1).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 32,
+      "text_length": 4931,
+      "details": {
+        "file_size_kb": 677.3369140625,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 32
+      }
+    },
+    {
+      "filename": "تست_آدم_السان۱۴۰۲_کانال_رابین_هود (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/تست_آدم_السان۱۴۰۲_کانال_رابین_هود (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 512.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "نمونه سوال داوری بین المللی (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/نمونه سوال داوری بین المللی (2).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 40,
+      "text_length": 439,
+      "details": {
+        "file_size_kb": 10381.7783203125,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 40
+      }
+    },
+    {
+      "filename": "1223257 (10).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/1223257 (10).pdf",
+      "error_type": "scan_or_empty_text",
+      "error_message": "Very little text extracted (0 chars) - likely scanned image or empty",
+      "page_count": 48,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 3807.7119140625,
+        "pages_with_text": 0,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 48
+      }
+    },
+    {
+      "filename": "مدنی 8 استاد پاک نیا (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/مدنی 8 استاد پاک نیا (3).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 38,
+      "text_length": 9277,
+      "details": {
+        "file_size_kb": 328.591796875,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 38
+      }
+    },
+    {
+      "filename": "@PNUIRketab (50).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/@PNUIRketab (50).pdf",
+      "error_type": "scan_or_empty_text",
+      "error_message": "Very little text extracted (0 chars) - likely scanned image or empty",
+      "page_count": 32,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 17658.3994140625,
+        "pages_with_text": 0,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 32
+      }
+    },
+    {
+      "filename": "بین الملل خصوصی 2.pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/بین الملل خصوصی 2.pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 2304.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "شرح قانون مدنی بیات 1399.pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/شرح قانون مدنی بیات 1399.pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 128.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "قوانین خاص کانون ۱۴۰۰ (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/قوانین خاص کانون ۱۴۰۰ (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 256.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "1223063 (10).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/1223063 (10).pdf",
+      "error_type": "scan_or_empty_text",
+      "error_message": "Very little text extracted (0 chars) - likely scanned image or empty",
+      "page_count": 176,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 14240.91015625,
+        "pages_with_text": 0,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 176
+      }
+    },
+    {
+      "filename": "جزوه حقوق جزای اختصاصی 4.pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/جزوه حقوق جزای اختصاصی 4.pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 72,
+      "text_length": 4793,
+      "details": {
+        "file_size_kb": 28617.7939453125,
+        "pages_with_text": 4,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 72
+      }
+    },
+    {
+      "filename": "قانون-ثبت-اسناد-و-املاک-2 (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/قانون-ثبت-اسناد-و-املاک-2 (3).pdf",
+      "error_type": "encrypted",
+      "error_message": "PDF is encrypted",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 1269.8212890625
+      }
+    },
+    {
+      "filename": "جزوه جرم شناسی.pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/جزوه جرم شناسی.pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 128.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "قانون-حمایت-از-مالکیت-صنعتی (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/قانون-حمایت-از-مالکیت-صنعتی (3).pdf",
+      "error_type": "scan_or_empty_text",
+      "error_message": "Very little text extracted (0 chars) - likely scanned image or empty",
+      "page_count": 58,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 14182.2431640625,
+        "pages_with_text": 0,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 58
+      }
+    },
+    {
+      "filename": "قواعد فقه1 (4).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/قواعد فقه1 (4).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 72,
+      "text_length": 561,
+      "details": {
+        "file_size_kb": 5985.3525390625,
+        "pages_with_text": 1,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 72
+      }
+    },
+    {
+      "filename": "کانال_کارآموزی_وکالت_کارآموز_یار_@karamooz_vekalat (6).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/کانال_کارآموزی_وکالت_کارآموز_یار_@karamooz_vekalat (6).pdf",
+      "error_type": "scan_or_empty_text",
+      "error_message": "Very little text extracted (0 chars) - likely scanned image or empty",
+      "page_count": 27,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 18406.990234375,
+        "pages_with_text": 0,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 27
+      }
+    },
+    {
+      "filename": "1223054 (4).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/1223054 (4).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 256.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "تست تجارت کمیجانی.pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/تست تجارت کمیجانی.pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 128.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "آراء_وحدت_رويه_قضايي_ديوان_عالي_كشور_در_سال_1402_8 (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/آراء_وحدت_رويه_قضايي_ديوان_عالي_كشور_در_سال_1402_8 (3).pdf",
+      "error_type": "scan_or_empty_text",
+      "error_message": "Very little text extracted (0 chars) - likely scanned image or empty",
+      "page_count": 15,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 1426.6923828125,
+        "pages_with_text": 0,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 15
+      }
+    },
+    {
+      "filename": "✅جزوه کل متون فقه شب خیز52 (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/✅جزوه کل متون فقه شب خیز52 (2).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 52,
+      "text_length": 13840,
+      "details": {
+        "file_size_kb": 884.9404296875,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 52
+      }
+    },
+    {
+      "filename": "تست تجارت 99 دکتر قربانی (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/تست تجارت 99 دکتر قربانی (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 2048.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "1_2170012926 (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/1_2170012926 (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 128.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "برنامه مطالعاتی کانون وکلا  (2).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/برنامه مطالعاتی کانون وکلا  (2).pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 128.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "جزوه خلاصه مدنی 7 (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/جزوه خلاصه مدنی 7 (3).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 38,
+      "text_length": 10587,
+      "details": {
+        "file_size_kb": 343.20703125,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 38
+      }
+    },
+    {
+      "filename": "حقوق تطبیقی (6).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/حقوق تطبیقی (6).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 213,
+      "text_length": 40680,
+      "details": {
+        "file_size_kb": 18129.8642578125,
+        "pages_with_text": 4,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 213
+      }
+    },
+    {
+      "filename": "Madani 08(law-radin.blogsky.com).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/Madani 08(law-radin.blogsky.com).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 103,
+      "text_length": 4986,
+      "details": {
+        "file_size_kb": 1751.865234375,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 103
+      }
+    },
+    {
+      "filename": "جزه_ثبت_نموداری_عالییی_فقط_اینو_بخونید (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/جزه_ثبت_نموداری_عالییی_فقط_اینو_بخونید (3).pdf",
+      "error_type": "successful",
+      "error_message": "Text extracted successfully",
+      "page_count": 145,
+      "text_length": 4179,
+      "details": {
+        "file_size_kb": 27922.1015625,
+        "pages_with_text": 5,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 145
+      }
+    },
+    {
+      "filename": "راهنمای_درخواست،_صدور_و_انتقال_دسته_چک_الکترونیکی،_امضا_الکترونیکی.pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/راهنمای_درخواست،_صدور_و_انتقال_دسته_چک_الکترونیکی،_امضا_الکترونیکی.pdf",
+      "error_type": "corrupted_pypdf",
+      "error_message": "PyPDF can't read: Stream has ended unexpectedly",
+      "page_count": 0,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 256.0,
+        "pdfplumber_error": "Unexpected EOF"
+      }
+    },
+    {
+      "filename": "حقوق مدنی8 -- استاد عابدی (3).pdf",
+      "path": "/home/amirxo/Desktop/New Folder 2/حقوق مدنی8 -- استاد عابدی (3).pdf",
+      "error_type": "scan_or_empty_text",
+      "error_message": "Very little text extracted (0 chars) - likely scanned image or empty",
+      "page_count": 119,
+      "text_length": 0,
+      "details": {
+        "file_size_kb": 43124.6640625,
+        "pages_with_text": 0,
+        "total_pages_checked": 5,
+        "pdfplumber_pages": 119
+      }
+    }
+  ],
+  "total_files": 100,
+  "date": "/home/amirxo/git"
+}
