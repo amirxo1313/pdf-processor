@@ -1,0 +1,21 @@
+# Persian PDF to JSON Converter Requirements
+# Install with: pip install -r requirements_nlp.txt
+
+# PDF Processing
+PyMuPDF>=1.23.0
+pdfminer.six>=20231228
+pdf2image>=1.16.0
+
+# Image Processing & OCR
+Pillow>=10.0.0
+pytesseract>=0.3.10
+
+# Language Detection
+langdetect>=1.0.9
+
+# Standard libraries (usually pre-installed)
+setuptools>=65.0.0
+wheel>=0.40.0
+
+# Optional: For Persian text processing (if needed)
+# hazm>=0.9.0  # Persian NLP toolkit (has compatibility issues with Python 3.13)

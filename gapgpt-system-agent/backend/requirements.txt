@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+pydantic
+pdfplumber
+pypdf
+cryptography
+openai
+anthropic
+google-generativeai
+
+

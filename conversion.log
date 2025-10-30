@@ -1,0 +1,100 @@
+2025-10-29 16:19:26,211 - persian_pdf_to_json_converter - INFO - Starting Persian PDF to JSON conversion pipeline...
+2025-10-29 16:19:26,211 - persian_pdf_to_json_converter - INFO - Scanning directory: /tmp/pdf_source_test_knn9lsx1
+2025-10-29 16:19:26,211 - persian_pdf_to_json_converter - INFO - Found 5 PDF files
+2025-10-29 16:19:26,211 - persian_pdf_to_json_converter - INFO - Processing 5 files with 2 workers
+2025-10-29 16:19:26,212 - persian_pdf_to_json_converter - INFO - Processing: @PNUIRketab (32).pdf
+2025-10-29 16:19:26,212 - persian_pdf_to_json_converter - INFO - Processing: خلاصه مدنی 5.pdf
+2025-10-29 16:19:26,929 - persian_pdf_to_json_converter - INFO - Classified as text PDF (confidence: 1.00)
+2025-10-29 16:19:27,254 - persian_pdf_to_json_converter - WARNING - Validation failed for خلاصه مدنی 5.pdf: Language detection failed: {'en': 0.9999952586245229}
+2025-10-29 16:19:27,257 - persian_pdf_to_json_converter - INFO - Processing: حقوق مدنی ۷ (3).pdf
+2025-10-29 16:19:27,259 - persian_pdf_to_json_converter - INFO - Successfully processed: خلاصه مدنی 5.pdf
+2025-10-29 16:19:27,280 - persian_pdf_to_json_converter - INFO - Classified as image PDF (confidence: 1.00)
+2025-10-29 16:19:27,280 - persian_pdf_to_json_converter - INFO - Converting PDF to images for OCR: /tmp/pdf_source_test_knn9lsx1/@PNUIRketab (32).pdf
+2025-10-29 16:19:27,320 - persian_pdf_to_json_converter - ERROR - OCR extraction failed for /tmp/pdf_source_test_knn9lsx1/@PNUIRketab (32).pdf: Unable to get page count.
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+
+2025-10-29 16:19:27,320 - persian_pdf_to_json_converter - INFO - Retrying OCR... (attempt 1)
+2025-10-29 16:19:27,320 - persian_pdf_to_json_converter - INFO - Converting PDF to images for OCR: /tmp/pdf_source_test_knn9lsx1/@PNUIRketab (32).pdf
+2025-10-29 16:19:27,368 - persian_pdf_to_json_converter - ERROR - OCR extraction failed for /tmp/pdf_source_test_knn9lsx1/@PNUIRketab (32).pdf: Unable to get page count.
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+
+2025-10-29 16:19:27,379 - persian_pdf_to_json_converter - INFO - Retrying OCR... (attempt 2)
+2025-10-29 16:19:27,389 - persian_pdf_to_json_converter - INFO - Converting PDF to images for OCR: /tmp/pdf_source_test_knn9lsx1/@PNUIRketab (32).pdf
+2025-10-29 16:19:27,471 - persian_pdf_to_json_converter - ERROR - OCR extraction failed for /tmp/pdf_source_test_knn9lsx1/@PNUIRketab (32).pdf: Unable to get page count.
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+
+2025-10-29 16:19:27,476 - persian_pdf_to_json_converter - INFO - Retrying OCR... (attempt 3)
+2025-10-29 16:19:27,487 - persian_pdf_to_json_converter - INFO - Converting PDF to images for OCR: /tmp/pdf_source_test_knn9lsx1/@PNUIRketab (32).pdf
+2025-10-29 16:19:27,558 - persian_pdf_to_json_converter - ERROR - OCR extraction failed for /tmp/pdf_source_test_knn9lsx1/@PNUIRketab (32).pdf: Unable to get page count.
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+
+2025-10-29 16:19:27,569 - persian_pdf_to_json_converter - ERROR - Failed to process @PNUIRketab (32).pdf: Unable to get page count.
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+
+2025-10-29 16:19:27,821 - persian_pdf_to_json_converter - INFO - Processing: نمونه سوالات حقوق مدني 8 (3).pdf
+2025-10-29 16:19:35,952 - persian_pdf_to_json_converter - INFO - Classified as image PDF (confidence: 1.00)
+2025-10-29 16:19:35,962 - persian_pdf_to_json_converter - INFO - Converting PDF to images for OCR: /tmp/pdf_source_test_knn9lsx1/نمونه سوالات حقوق مدني 8 (3).pdf
+2025-10-29 16:19:52,698 - persian_pdf_to_json_converter - INFO - Classified as image PDF (confidence: 1.00)
+2025-10-29 16:19:52,699 - persian_pdf_to_json_converter - INFO - Converting PDF to images for OCR: /tmp/pdf_source_test_knn9lsx1/حقوق مدنی ۷ (3).pdf
+2025-10-29 16:25:52,514 - persian_pdf_to_json_converter - INFO - OCR progress: 10/27 pages processed
+2025-10-29 16:27:59,691 - persian_pdf_to_json_converter - INFO - OCR progress: 10/97 pages processed
+2025-10-29 16:35:08,950 - persian_pdf_to_json_converter - INFO - OCR progress: 20/27 pages processed
+2025-10-29 16:36:31,906 - persian_pdf_to_json_converter - INFO - OCR progress: 20/97 pages processed
+2025-10-29 16:43:02,624 - persian_pdf_to_json_converter - INFO - Processing: نمونه سوالات آیین دادرسی مدنی 3 (3).pdf
+2025-10-29 16:43:02,639 - persian_pdf_to_json_converter - INFO - Successfully processed: حقوق مدنی ۷ (3).pdf
+2025-10-29 16:43:02,676 - persian_pdf_to_json_converter - INFO - Classified as image PDF (confidence: 1.00)
+2025-10-29 16:43:02,677 - persian_pdf_to_json_converter - INFO - Converting PDF to images for OCR: /tmp/pdf_source_test_knn9lsx1/نمونه سوالات آیین دادرسی مدنی 3 (3).pdf
+2025-10-29 16:43:02,742 - persian_pdf_to_json_converter - ERROR - OCR extraction failed for /tmp/pdf_source_test_knn9lsx1/نمونه سوالات آیین دادرسی مدنی 3 (3).pdf: Unable to get page count.
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+
+2025-10-29 16:43:02,742 - persian_pdf_to_json_converter - INFO - Retrying OCR... (attempt 1)
+2025-10-29 16:43:02,742 - persian_pdf_to_json_converter - INFO - Converting PDF to images for OCR: /tmp/pdf_source_test_knn9lsx1/نمونه سوالات آیین دادرسی مدنی 3 (3).pdf
+2025-10-29 16:43:02,792 - persian_pdf_to_json_converter - ERROR - OCR extraction failed for /tmp/pdf_source_test_knn9lsx1/نمونه سوالات آیین دادرسی مدنی 3 (3).pdf: Unable to get page count.
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+
+2025-10-29 16:43:02,792 - persian_pdf_to_json_converter - INFO - Retrying OCR... (attempt 2)
+2025-10-29 16:43:02,793 - persian_pdf_to_json_converter - INFO - Converting PDF to images for OCR: /tmp/pdf_source_test_knn9lsx1/نمونه سوالات آیین دادرسی مدنی 3 (3).pdf
+2025-10-29 16:43:02,813 - persian_pdf_to_json_converter - ERROR - OCR extraction failed for /tmp/pdf_source_test_knn9lsx1/نمونه سوالات آیین دادرسی مدنی 3 (3).pdf: Unable to get page count.
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+
+2025-10-29 16:43:02,813 - persian_pdf_to_json_converter - INFO - Retrying OCR... (attempt 3)
+2025-10-29 16:43:02,814 - persian_pdf_to_json_converter - INFO - Converting PDF to images for OCR: /tmp/pdf_source_test_knn9lsx1/نمونه سوالات آیین دادرسی مدنی 3 (3).pdf
+2025-10-29 16:43:02,835 - persian_pdf_to_json_converter - ERROR - OCR extraction failed for /tmp/pdf_source_test_knn9lsx1/نمونه سوالات آیین دادرسی مدنی 3 (3).pdf: Unable to get page count.
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+
+2025-10-29 16:43:02,835 - persian_pdf_to_json_converter - ERROR - Failed to process نمونه سوالات آیین دادرسی مدنی 3 (3).pdf: Unable to get page count.
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't find trailer dictionary
+Syntax Error: Couldn't read xref table
+
+2025-10-29 16:43:05,509 - persian_pdf_to_json_converter - INFO - OCR progress: 30/97 pages processed
+2025-10-29 16:43:21,265 - persian_pdf_to_json_converter - INFO - OCR progress: 40/97 pages processed
+2025-10-29 16:43:36,657 - persian_pdf_to_json_converter - INFO - OCR progress: 50/97 pages processed
+2025-10-29 16:43:52,166 - persian_pdf_to_json_converter - INFO - OCR progress: 60/97 pages processed
+2025-10-29 16:44:06,903 - persian_pdf_to_json_converter - INFO - OCR progress: 70/97 pages processed
+2025-10-29 16:44:21,087 - persian_pdf_to_json_converter - INFO - OCR progress: 80/97 pages processed
+2025-10-29 16:44:36,943 - persian_pdf_to_json_converter - INFO - OCR progress: 90/97 pages processed
+2025-10-29 16:44:48,680 - persian_pdf_to_json_converter - INFO - Successfully processed: نمونه سوالات حقوق مدني 8 (3).pdf
+2025-10-29 16:44:48,761 - persian_pdf_to_json_converter - INFO - Generating dataset manifest...
+2025-10-29 16:44:48,763 - persian_pdf_to_json_converter - INFO - Manifest saved to: /tmp/pdf_test_1r91c6y3/dataset_manifest.json
+2025-10-29 16:44:48,763 - persian_pdf_to_json_converter - INFO - Generating final report...
+2025-10-29 16:44:48,764 - persian_pdf_to_json_converter - INFO - Report saved to: /tmp/pdf_test_1r91c6y3/training-summary.log
+2025-10-29 16:44:48,764 - persian_pdf_to_json_converter - INFO - Conversion pipeline completed successfully!

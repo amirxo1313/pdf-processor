@@ -1,0 +1,7 @@
+# حداقل وابستگی‌های مورد نیاز
+PyPDF2>=3.0.0
+pdfminer.six>=20231212
+PyMuPDF>=1.22.5
+pytesseract>=0.3.10
+Pillow>=10.0.0
+pycryptodome>=3.20.0

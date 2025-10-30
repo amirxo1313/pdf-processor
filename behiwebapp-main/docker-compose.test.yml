@@ -1,0 +1,34 @@
+version: '3.8'
+
+services:
+  playwright-tests:
+    build:
+      context: .
+      dockerfile: Dockerfile.test
+    volumes:
+      - ./test-results:/app/test-results
+      - ./tests:/app/tests:ro
+      - ./playwright.config.js:/app/playwright.config.js:ro
+    environment:
+      - BASE_URL=${BASE_URL:-http://host.docker.internal:3000}
+      - CI=true
+      - NODE_ENV=test
+    network_mode: "host"
+    command: ["npx", "playwright", "test", "--reporter=html,json"]
+
+  # Optional: Run app in test mode alongside tests
+  app-test:
+    build:
+      context: /home/amirxo/Desktop/behiwebapp-main
+      dockerfile: Dockerfile
+    environment:
+      - NODE_ENV=test
+      - ONE_API_TOKEN=${ONE_API_TOKEN}
+    ports:
+      - "3000:3000"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000/api/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 30s

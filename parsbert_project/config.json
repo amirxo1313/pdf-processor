@@ -1,0 +1,63 @@
+{
+  "version": "1.0.0",
+  "project_name": "ParsBERT Legal PDF Converter",
+
+  "paths": {
+    "input_dir": "/home/amirxo/Desktop/PDF",
+    "output_dir": "/home/amirxo/Desktop/PDF/output_json",
+    "logs_dir": "/home/amirxo/Desktop/PDF/logs",
+    "failed_log": "/home/amirxo/Desktop/PDF/logs/failed_files.log",
+    "integrity_log": "/home/amirxo/Desktop/PDF/logs/integrity_warnings.log",
+    "report_log": "/home/amirxo/Desktop/PDF/logs/conversion_report.log",
+    "final_summary": "/home/amirxo/Desktop/PDF/logs/_FINAL_SUMMARY.json"
+  },
+
+  "processing": {
+    "recursive_scan": true,
+    "resume_enabled": true,
+    "skip_existing_outputs": true,
+    "paragraph_max_chars": 1200,
+    "min_text_length_for_valid_pdf": 100,
+    "min_integrity_score": 0.85
+  },
+
+  "normalization": {
+    "convert_arabic_yeh_to_persian": true,
+    "convert_arabic_kaf_to_persian": true,
+    "convert_arabic_numerals_to_persian": true,
+    "normalize_whitespace": true,
+    "fix_line_breaks": true,
+    "remove_extra_spaces": true
+  },
+
+  "validation": {
+    "verify_json_format": true,
+    "check_utf8_encoding": true,
+    "compare_input_output_length": true,
+    "minimum_length_ratio": 0.95,
+    "forbid_placeholder_text": true,
+    "forbid_lorem_ipsum": true
+  },
+
+  "output_format": {
+    "json_indent": 2,
+    "ensure_ascii": false,
+    "sort_keys": false,
+    "encoding": "utf-8"
+  },
+
+  "integrity_scoring": {
+    "criteria": {
+      "text_completeness_weight": 0.4,
+      "paragraph_quality_weight": 0.25,
+      "entity_extraction_weight": 0.2,
+      "normalization_quality_weight": 0.15
+    },
+    "penalties": {
+      "missing_text": -0.3,
+      "empty_paragraphs": -0.2,
+      "no_entities": -0.1,
+      "suspected_fake_data": -1.0
+    }
+  }
+}

@@ -1,0 +1,42 @@
+# CRITICAL RULES FOR CURSOR AI - STRICT ENFORCEMENT
+
+## ZERO HALLUCINATION POLICY
+- Every piece of data MUST come from actual PDF source
+- NO fabricated entities, dates, or legal terms
+- If information doesn't exist, leave field empty or null
+- NEVER generate example/placeholder content
+
+## ACCURACY REQUIREMENTS
+- Text extraction accuracy: 100% (no summarization)
+- Entity extraction: Only ACTUAL entities found in text
+- Farsi normalization: Lossless (preserve all characters)
+- Paragraph splitting: Respect sentence boundaries exactly
+
+## FORBIDDEN ACTIONS
+- ❌ Creating fake legal terms that don't exist in source
+- ❌ Adding placeholder dates like "1400/01/01"
+- ❌ Inventing document titles when not present
+- ❌ Truncating text to fit arbitrary limits
+- ❌ Using Python libraries for entity extraction (AI must do it)
+- ❌ Generating "sample" or "example" JSON outputs
+- ❌ Approximating numbers or dates
+
+## MANDATORY VALIDATIONS
+- ✅ Compare output char count with input (must be ≥95%)
+- ✅ Verify every entity exists in source text
+- ✅ Check integrity_score reflects ACTUAL quality
+- ✅ Ensure no lorem ipsum or dummy data anywhere
+
+## ERROR HANDLING
+- Corrupted PDF → Log as "EXTRACTION_FAILED" (don't guess)
+- Scanned image PDF → Log as "OCR_REQUIRED" (don't fake text)
+- Empty PDF → Log as "NO_CONTENT" (don't fill with examples)
+- Password protected → Log as "ACCESS_DENIED" (don't bypass)
+
+## CODE STYLE
+- All comments in Persian
+- All error messages in Persian
+- Type hints on every function
+- No hardcoded strings (use config)
+- UTF-8 encoding everywhere
+
